@@ -1,4 +1,4 @@
-from turtle import circle
+
 from urllib.parse import urlencode
 from credentials import api_key
 import requests
